@@ -1,4 +1,4 @@
-# option
+# Option
 A non-quant library written to facilitate dealing with standardized options.
 
 As per widespread modern financial code development customs, object-oriented code is written is C# while more quantitative modules are written in F#. Here you will find functions to compute both past and future option expiration dates, to build strike and options chains for both calls and puts and, most of all, to easily get the option symbol via the ToString() method.
